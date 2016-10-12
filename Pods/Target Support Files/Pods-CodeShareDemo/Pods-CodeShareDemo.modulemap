@@ -1,0 +1,6 @@
+framework module Pods_CodeShareDemo {
+  umbrella header "Pods-CodeShareDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
